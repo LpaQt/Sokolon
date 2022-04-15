@@ -17,7 +17,7 @@
         "library": "https://raw.githubusercontent.com/tera-toolbox-mods/library/master/module.json"
     },
 	"servers": [
-        "https://raw.githubusercontent.com/LpaQt/ExtremeSorc/"
+        "https://raw.githubusercontent.com/LpaQt/Sokolon/main/extreme-sorc"
     ],
     "version": "<font color='#00BB3F'>115.2</font>",
     "drmKey": "prH8oXIgCeKPbSLF"
