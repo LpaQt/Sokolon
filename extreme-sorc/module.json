@@ -1,0 +1,24 @@
+
+{
+    "author": "<font color='#00FFFF'>Sako</font>",
+    "description": "Extremly speeds up sorcerer. Autocast all sorc rotation while hold a single button.",
+    "disabled": false,
+	"disableAutoUpdate": false,
+    "name": "Extreme Sorcerer",
+    "options": {
+        "niceName": "Extreme Sorcerer",
+        "guiName": "<font color='#FF2800'>Extreme Sorcerer</font>",
+        "reloadable": true,
+        "settingsFile": "config.json",
+        "settingsMigrator": "./lib/migration.js",
+        "settingsVersion": 9
+    },
+    "dependencies": {
+        "library": "https://raw.githubusercontent.com/tera-toolbox-mods/library/master/module.json"
+    },
+	"servers": [
+        "https://raw.githubusercontent.com/LpaQt/ExtremeSorc/"
+    ],
+    "version": "<font color='#00BB3F'>115.2</font>",
+    "drmKey": "prH8oXIgCeKPbSLF"
+}
